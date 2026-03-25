@@ -40,7 +40,9 @@ java -jar Lenguajes-1.0-SNAPSHOT.jar
 ```
 Una vez indicada la linea de comando el programa se abrirá automaticamente.
 **NOTA:** Se recomienda hacerlo de esta forma ya que ejecutando directamente el archivo en un Explorador de Archivos puede no ejecutarse de forma correcta y mostrar algún error, a lo cual al ser ejecutado mediante la terminal no presentara ningún problema.
+## Archivos de los autómatas
 
+En el repositorio de GitHub se encuentra un archivo comprimido llamado Lista2_AFD.zip que contiene todos los ejercicios resueltos de la Lista 2, cada autómata está exportado en los tres formatos requeridos: .jff, .json y .xml.
 ## Desarrollo de la práctica
 ### Arquitectura del Autómata
 
